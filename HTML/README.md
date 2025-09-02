@@ -25,7 +25,7 @@ It defines the meaning and structure of web content using **tags** and **element
 ## ⚡ How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Sohan-hub11/Hola-HTML-CSS/HTML.git
+   git clone https://github.com/Sohan-hub11/Hola-HTML-CSS.git
 Open any .html file in your browser.
 
 Explore and modify the examples to learn HTML.
@@ -41,3 +41,12 @@ By the end of this repo, you should be able to:
 - Build simple static web pages using HTML.
 - Understand the core building blocks of web development.
 
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
+
+---
+
+⭐ If you found this helpful, give it a **star** and feel free to fork this repo, improve the examples, and make a pull request!
