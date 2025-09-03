@@ -41,3 +41,13 @@ It controls the layout, colors, fonts, spacing, and responsiveness of HTML eleme
 - Build clean layouts with Flexbox and Grid.
 - Make web pages responsive with media queries.
 
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
+
+---
+
+⭐ If you found this helpful, give it a **star** and feel free to fork this repo, improve the examples, and make a pull request!
+
