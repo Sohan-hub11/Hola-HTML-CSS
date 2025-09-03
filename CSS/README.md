@@ -17,9 +17,6 @@ It controls the layout, colors, fonts, spacing, and responsiveness of HTML eleme
 - Fonts and text styling
 - The Box Model (margin, border, padding, content)
 - Flexbox and Grid layouts
-- Positioning (relative, absolute, fixed, sticky)
-- Pseudo-classes and pseudo-elements
-- Media queries and responsive design
 
 ---
 
