@@ -20,3 +20,24 @@ It controls the layout, colors, fonts, spacing, and responsiveness of HTML eleme
 
 ---
 
+## ⚡ How to Use
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Sohan-hub11/Hola-HTML-CSS.git
+2. Open html file in your browser.
+3. Modify the CSS files and see changes live.
+
+---
+
+## 🛠 Requirements
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+- A code editor (VS Code)
+
+---
+
+## 🎓 Learning Goals
+- By the end of this repo, you should be able to:
+- Style HTML elements effectively.
+- Build clean layouts with Flexbox and Grid.
+- Make web pages responsive with media queries.
+
