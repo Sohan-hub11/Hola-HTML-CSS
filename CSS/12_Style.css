@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    transition-property: color;
+    transition-duration: 1s;
+}
+
+h1:hover{
+    color: blue;
+}
+
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: deepskyblue;
+    border: 1px solid black;
+    /* opacity: 0.5; */
+    margin: 0 auto;
+    /* transition-duration: 1s;
+    transition-timing-function: ease-in;
+    transition-delay: .3s; */
+    margin-top: 10px;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: .3s;
+}
+
+#box:hover{
+    margin-top: 200px;
+    background-color: brown;
+}
