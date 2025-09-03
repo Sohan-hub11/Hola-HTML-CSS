@@ -1,0 +1,80 @@
+* {
+    font-family: 'Courier New';
+}
+
+h1 {
+    color: #A82400;
+}
+
+#login {
+    background-color: white;
+    color: black;
+}
+
+#signup {
+    background-color: #A82400;
+    color: aliceblue;
+}
+
+h3 {
+    color: #A82400;
+}
+
+/* #upvote {
+    background-color: green;
+    color: aliceblue;
+} */
+
+/* Descendent Selectors */
+
+.follow {
+    color: purple;
+    background-color: yellow;
+}
+
+nav ul li a {
+    color: rgb(161, 8, 33);
+}
+
+/* Adjacent Sibling Combinator */
+
+p +h3 {
+    text-decoration: underline;
+}
+
+/* #upvote + button {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+} */
+
+/* Child Combinator */
+
+div > input {
+    color: #A82400;
+}
+
+/* Pseudo Class */
+
+h3:hover {
+    text-decoration: none;
+}
+
+button:hover {
+    background-color :#A82400;
+    color: aliceblue;
+}
+
+button:active {
+    background-color: hotpink;
+    color: black;
+}
+
+p:active {
+    font-weight: bold;
+    color: blue;
+}
+
+input[type="radio"]:checked + label {
+    font-weight: bold;
+    color: #A82400;
+}
